@@ -1,0 +1,85 @@
+[
+        {
+            "id": "1",
+            "title": "Ficus Elastica",
+            "description": "Un grand classique, le ficus elastica est une plante verte d'intérieur très appréciée pour son beau feuillage brillant.",
+            "price": 129.99,
+            "image": "/assets/FicusElastica.png",
+            "category": "Plantes d'intérieur",
+            "addCart" : "/assets/ajoutPanier3.png"
+        },
+        {
+            "id": "2",
+            "title": "Monstera Deliciosa",
+            "description": "Aussi appelé plante du fromager, le monstera est célèbre pour ses feuilles découpées et son aspect tropical.",
+            "price": 134.99,
+            "image": "/assets/MonsteraDeliciosa.png",
+            "category": "Plantes d'intérieur",
+            "addCart" : "/assets/ajoutPanier3.png"
+        },
+        {
+            "id": "3",
+            "title": "Palmier Areca",
+            "description": "Un palmier d'intérieur populaire qui apporte une touche d'exotisme à votre maison.",
+            "price": 139.99,
+            "image": "/assets/PalmierAreca.png",
+            "category": "Plantes d'intérieur",
+            "addCart" : "/assets/ajoutPanier3.png"
+        },
+        {
+            "id": "4",
+            "title": "Succulente Echeveria",
+            "description": "L'echeveria est facile à entretenir et ajoute une touche moderne à n'importe quel espace.",
+            "price": 29.99,
+            "image": "/assets/SucculenteEcheveria.png",
+            "category": "Succulentes",
+            "addCart" : "/assets/ajoutPanier3.png"
+        },
+        {
+            "id": "5",
+            "title": "Cactus Columnar",
+            "description": "Ce cactus au design vertical ajoute un attrait visuel unique à tout espace.",
+            "price": 32.99,
+            "image": "/assets/CactusColumnar2.png",
+            "category": "Succulentes",
+            "addCart" : "/assets/ajoutPanier3.png"
+        },
+        {
+            "id": "6",
+            "title": "Succulente Haworthia",
+            "description": "Avec ses motifs rayés ou tachetés, la haworthia est une succulente particulièrement jolie.",
+            "price": 28.99,
+            "image": "/assets/SucculenteHaworthia.png",
+            "category": "Succulentes",
+            "addCart" : "/assets/ajoutPanier3.png"
+        },
+        {
+            "id": "7",
+            "title": "Sansevieria",
+            "description": "Connu pour ses capacités de purification de l'air, le sansevieria est une plante d'intérieur robuste. Elle est surnommée Langue de Belle-mère",
+            "price": 59.99,
+            "image": "/assets/Sansevieria.png",
+            "category": "Plantes dépolluantes",
+            "addCart" : "/assets/ajoutPanier3.png"
+        },
+        {
+            "id": "8",
+            "title": "Spathiphyllum",
+            "description": "Aussi appelé fleur de lune, le spathiphyllum est réputé pour améliorer la qualité de l'air intérieur.",
+            "price": 54.99,
+            "image": "/assets/Spathiphyllum.png",
+            "category": "Plantes dépolluantes",
+            "addCart" : "/assets/ajoutPanier3.png"
+        },
+        {
+            "id": "9",
+            "title": "Chlorophytum",
+            "description": "Avec ses jolies feuilles arquées, le chlorophytum est une plante dépolluante idéale pour les espaces de vie.",
+            "price": 54.99,
+            "image": "/assets/Chlorophytum.png",
+            "category": "Plantes dépolluantes",
+            "addCart" : "/assets/ajoutPanier3.png"
+        }
+]
+
+
