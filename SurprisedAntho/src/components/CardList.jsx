@@ -1,7 +1,7 @@
 import Card from "./Card";
 import data from "../data/data.json";
 
-function CardList(){
+function CardList({data}){
     return (
         <main className="cardList">
             {data.map(article => 
